@@ -8,6 +8,11 @@ w = 15
 print('x == y', x == y)
 print('x == z', x == z)
 
+
+print('x != y', x != y)
+print('x != z', x != z)
+
+
 print('y < w', y < w)
 print('y > w', y > w)
 
